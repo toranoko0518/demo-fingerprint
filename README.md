@@ -1,4 +1,4 @@
-This is demo app for GitHub API v3 with Retrofit and RxJava.
+This is demo app for fingerprint authentication.
 
 i | ii | iii
 --- | --- | ---
