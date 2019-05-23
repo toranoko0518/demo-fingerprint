@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo Fingerprint</string>
+    <string name="btn_auth">Auth</string>
+</resources>
